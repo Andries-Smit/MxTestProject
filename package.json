@@ -1,0 +1,15 @@
+{
+  "name": "mx-test-project-range-slider",
+  "version": "1.0.0",
+  "description": "Mendix prject",
+  "main": "Test.mpr",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andries-Smit/MxTestProject.git"
+  },
+  "author": "Andries Smit",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Andries-Smit/MxTestProject/issues"
+  }
+}
